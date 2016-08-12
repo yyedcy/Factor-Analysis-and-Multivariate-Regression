@@ -5,7 +5,7 @@ Published in:Factor Analysis and Multivariate Regression
 
 Description:shows how leisure, work and time spent on personal needs correspond to each other
 
-Keywords:plot, visualization, graphical representation, regression, Factor analysis
+Keywords:plot, visualization, graphical representation, regression, factor analysis
 
 Author:Daria Fitisova, Maria Kozlova, Yihan Liu, Andrea Mina Weihe
 
