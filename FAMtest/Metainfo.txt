@@ -1,1 +1,12 @@
 
+Name of QuantLet:  FAMtest
+
+Published in:      Factor-Analysis-and-Multivariate-Regression
+
+Description:       construct histograms of our variables with the help of the `ggplot2 `package
+
+Keywords:         histogram, distribution, boxplot, graphical represtation, visualization, plot
+
+Author:            Daria Fitisova, Maria Kozlova, Yihan Liu, Andrea Mina Weihe
+
+Submitted:         Sat, Aug 13 2016 by Yihan Liu
