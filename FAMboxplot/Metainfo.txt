@@ -1,0 +1,12 @@
+
+Name of QuantLet:  FAMboxplot
+
+Published in:      Factor-Analysis-and-Multivariate-Regression
+
+Description:       Shows ranges and medians over the set of variables
+
+Keywords:          quantile, boxplot, graphical represtation, visualization, plot
+
+Author:            Daria Fitisova, Maria Kozlova, Yihan Liu, Andrea Mina Weihe
+
+Submitted:         Sat, Aug 13 2016 by Yihan Liu
