@@ -1,7 +1,7 @@
 
 Name of Quantlet:Factor Analysis and Multivariate Regression
 
-Published in:
+Published in:Factor Analysis and Multivariate Regression
 
 Description:shows how leisure, work and time spent on personal needs correspond to each other
 
