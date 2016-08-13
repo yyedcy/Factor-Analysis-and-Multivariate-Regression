@@ -32,8 +32,8 @@ o u t l i e rTe s t (Model2 )
 i n f l u e n c ePl o t (Model2 , id .method=" i d e n t i f y " , main=" I n f l u e n c e Plot " , sub=" Ci r c l e s
 
 #  prove the normality of residual
-l ibrary (MASS)
-s r e s i d = s tudr e s (Model2 )
+library (MASS)
+sresid = s tudr e s (Model2 )
 hist ( s r e s i d , f r e q=FALSE, main=" Di s t r i b u t i o n o f Student i z ed Re s idua l s " , br eaks=10)
 x f i t = seq (min( s r e s i d ) ,max( s r e s i d ) , length=40)
 y f i t = dnorm( x f i t )
@@ -51,7 +51,7 @@ Model3Hous <􀀀 lm(TELE ~ HOUS+PERS+EAT+SLEE+LEAS, data=Timebudget )
 Model3Kids <􀀀 lm(TELE ~ KIDS+PERS+EAT+SLEE+LEAS, data=Timebudget )
 Model3Shop <􀀀 lm(TELE ~ SHOP+PERS+EAT+SLEE+LEAS, data=Timebudget )
 
-#created manually two dummy variables and regress
+#  created manually two dummy variables and regress
 summary( ModelDummy)
 lm( formula = TELE ~ PERS + EAT + SLEE + HOUS + GEND + GEO, data = TimebudgetD)
 
