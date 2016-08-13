@@ -29,7 +29,7 @@ l ibrary ( ' car ' )
 o u t l i e rTe s t (Model2 )
 
 #  present both outlyingness, leverage, as well as inuence of each point
-i n f l u e n c ePl o t (Model2 , id .method=" i d e n t i f y " , main=" I n f l u e n c e Plot " , sub=" Ci r c l e s
+i n f l u e n c ePl o t (Model2 , id .method=" i d e n t i f y " , main=" I n f l u e n c e Plot " , sub=" Ci r c l e s ")
 
 #  prove the normality of residual
 l i b r a r y (MASS)
@@ -55,7 +55,4 @@ Model3Shop = lm(TELE ~ SHOP+PERS+EAT+SLEE+LEAS, data=Timebudget )
 summary( ModelDummy)
 lm( formula = TELE ~ PERS + EAT + SLEE + HOUS + GEND + GEO, data = TimebudgetD)
 
-sqrt (VIF(ModelDummy2 ) ) > 2
-[1] TRUE
-
-gvlma ( x = ModelDummy2)
+ 
