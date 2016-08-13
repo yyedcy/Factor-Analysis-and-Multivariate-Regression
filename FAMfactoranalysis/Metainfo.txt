@@ -1,7 +1,7 @@
 
 Name of QuantLet:  FAMfactoranalysis
 
-Published in:      Factor-Analysis-and-Multivariate-Regression
+Published in:      Factor Analysis and Multivariate Regression
 
 Description:       Shows the result of factor analysis based on the result of PCA
 
