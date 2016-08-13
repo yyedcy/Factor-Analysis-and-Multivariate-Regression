@@ -1,9 +1,9 @@
 
 Name of QuantLet:  FAMdataanalysis
 
-Published in:      Factor-Analysis-and-Multivariate-Regression
+Published in:      Factor Analysis and Multivariate Regression
 
-Description:       construct histograms of our variables with the help of the `ggplot2 `package
+Description:       Constructs histograms of our variables with the help of the `ggplot2 `package
 
 Keywords:          histogram, distribution, boxplot, graphical represtation, visualization, plot
 
