@@ -18,6 +18,8 @@ Author:            Daria Fitisova, Maria Kozlova, Yihan Liu, Andrea Mina Weihe
 
 Submitted:         Sat, Aug 13 2016 by Yihan Liu
 
+```
+
 ![Picture1](Factor loadings before rotation.PNG)
 ![Picture2](Distributions of factor loadings.PNG)
 ![Picture3](Factor loadings after varimax rotation.PNG)
@@ -42,5 +44,4 @@ load=f a . time$ l o ading s [ , 1 : 2 ]
 plot ( load , type="n" , xlab="Factor 1" , ylab="Factor 2" )
 text ( load , labels=names( time2 ) , cex=.7)
 abl ine (h=0,v=0)
-Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Status Help
+ 
