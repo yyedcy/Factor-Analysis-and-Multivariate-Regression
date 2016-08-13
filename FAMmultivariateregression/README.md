@@ -29,6 +29,9 @@ Submitted:         Sat, Aug 13 2016 by Yihan Liu
 ![Picture8](distribution of studentized residuals.png)
 ![Picture9](CERES Plots.png)
 
+
+```r
+
 #  build a full model and check
 attach (Timebudget2 )
 Model1 = lm(TELE ~ PROF+TRAN+HOUS+KIDS+SHOP+PERS+EAT+SLEE+LEAS,
