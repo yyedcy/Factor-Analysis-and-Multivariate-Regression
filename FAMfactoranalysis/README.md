@@ -20,14 +20,14 @@ Submitted:         Sat, Aug 13 2016 by Yihan Liu
 
 ```
 
-![Picture1](Factor loadings before rotation.PNG)
-![Picture2](Distributions of factor loadings.PNG)
-![Picture3](Factor loadings after varimax rotation.PNG)
-![Picture4](Proportion of variance explained after varimax rotation.PNG)
-![Picture5](Representation of the initial variables in factors space (via pairs() function).PNG)
-![Picture6](Representation of initial variables in factor1 factor2 space.PNG)
-![Picture7](Representation of initial variables in factor2 factor3 space.PNG)
-![Picture8](Representation of initial variables in factor1 factor3 space.PNG)
+![Picture1](Factor loadings before rotation.png)
+![Picture2](Distributions of factor loadings.png)
+![Picture3](Factor loadings after varimax rotation.png)
+![Picture4](Proportion of variance explained after varimax rotation.png)
+![Picture5](Representation of the initial variables in factors space (via pairs() function).png)
+![Picture6](Representation of initial variables in factor1 factor2 space.png)
+![Picture7](Representation of initial variables in factor2 factor3 space.png)
+![Picture8](Representation of initial variables in factor1 factor3 space.png)
 
 
 ```r
