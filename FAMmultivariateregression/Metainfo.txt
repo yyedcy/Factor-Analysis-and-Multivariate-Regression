@@ -1,9 +1,9 @@
 
 Name of QuantLet:  FAMmultivariateregression
 
-Published in:      Factor-Analysis-and-Multivariate-Regression
+Published in:      Factor Analysis and Multivariate Regression
 
-Description:      attempt prediction of one dependent variable TELE (amount of hours spent watching television) based on other variables in `Timebudget`
+Description:       Attempts prediction of one dependent variable TELE (amount of hours spent watching television) based on other variables in `Timebudget`
 
 Keywords:          multivariate analysis, vif, graphical represtation, factor analysis, plot
 
