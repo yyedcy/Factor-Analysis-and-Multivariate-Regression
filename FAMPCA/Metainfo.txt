@@ -1,9 +1,9 @@
 
 Name of QuantLet:  FAMPCA
 
-Published in:      Factor-Analysis-and-Multivariate-Regression
+Published in:      Factor Analysis and Multivariate Regression
 
-Description:       Shows how many components are reasonable and sucient to use
+Description:       Shows how many components are reasonable and sufficient to use
 
 Keywords:          dimension-reduction, standard deviation, graphical represtation, factor analysis, plot
 
