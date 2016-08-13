@@ -29,6 +29,9 @@ Submitted:         Sat, Aug 13 2016 by Yihan Liu
 ![Picture7](Representation of initial variables in factor2 factor3 space.PNG)
 ![Picture8](Representation of initial variables in factor1 factor3 space.PNG)
 
+
+```r
+
 # accomplish the least
 f a . time=f a c t a n a l ( time2 , f a c t o r s =3, r o t a t i o n="none" )
 
